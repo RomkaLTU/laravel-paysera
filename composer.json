@@ -1,16 +1,16 @@
 {
-    "name": "spatie/:package_name",
-    "description": ":package_description",
+    "name": "spatie/laravel-paysera",
+    "description": "Laravel Paysera payment gateway integration",
     "keywords": [
         "spatie",
-        ":package_name"
+        "laravel-paysera"
     ],
-    "homepage": "https://github.com/spatie/:package_name",
+    "homepage": "https://github.com/spatie/laravel-paysera",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Romualdas D.",
+            "email": "romualdas@prodev.lt",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
